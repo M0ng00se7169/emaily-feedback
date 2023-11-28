@@ -26,7 +26,7 @@
     "lodash": "^4.17.21",
     "merge": "^2.1.1",
     "mongoose": "^6.12.0",
-    "ngrok": "^3.4.1",
+    "ngrok": "^4.0.0",
     "passport": "^0.6.0",
     "passport-google-oauth20": "^1.0.0",
     "path-parser": "^2.1.0",
